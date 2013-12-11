@@ -1,0 +1,5 @@
+name: ShelvedBooks
+version: 1.0.0
+description: Turns bookshelves into storage containers
+author: SeeTeeTT
+main: me.conarnar.shelvedbooks.ShelvedBooks
